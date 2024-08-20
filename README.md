@@ -17,7 +17,7 @@
 - Projemizde, metin çevirisi işlemleri için Text Translator API kullanılmaktadır. API, çeşitli diller arasında metin çevirisi yapabilmenizi sağlar ve kullanıcıların hızlı ve doğru çeviriler almasına yardımcı olur.
 
   
-- ![](https://github.com/Rasime-Dumlupunar/translate_app-clone/blob/main/translate_clone.gif)
+- ![](https://github.com/Rasime-Dumlupunar/translate_app-clone/blob/main/translate-app-clone.gif)
 
 
 
